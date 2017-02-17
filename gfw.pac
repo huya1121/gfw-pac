@@ -373,6 +373,7 @@ var ALL = {
 	".sixth.biz",
 	".squirly.info",
 	".ssl443.org",
+	".telegram.org",
 	".toh.info",
 	".toythieves.com",
 	".trickip.net",
