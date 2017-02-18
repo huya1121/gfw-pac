@@ -51,6 +51,7 @@ var ALL = {
         "149.154.160.0/20"
         ],
       "domain":[
+	"ssr.huyal.com",
 	"||2dbook.com",
 	"||4tern.com",
 	"|http://85.17.73.31/",
